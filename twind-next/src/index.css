@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@property --hue {
+    syntax: '<angle>';
+    initial-value: 5rad;
+    inherits: true;
+  }
